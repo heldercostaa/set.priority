@@ -102,7 +102,9 @@
       },
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=1889131930",
       "genre": "Big room",
-      "subgenres": [],
+      "subgenres": [
+        "Progressive house"
+      ],
       "genreSources": [
         "https://www.youtube.com/watch?v=wuwPiyvPqLA",
         "https://www.insomniac.com/events/alan-walker-2026-09-06-san-jose-ca/"
@@ -163,8 +165,11 @@
       "photoUrl": "/artists/1262707253.jpg",
       "photoSourceUrl": "https://artist-lineup-cdn.tomorrowland.com/16607466-large-Alok2.jpg",
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=1262707253",
-      "genre": "House",
-      "subgenres": [],
+      "genre": "Big room",
+      "subgenres": [
+        "Tech house",
+        "Progressive house"
+      ],
       "genreSources": [
         "https://www.youtube.com/watch?v=zHAUZ02aCwo"
       ],
@@ -275,7 +280,7 @@
       "genreSources": [
         "https://www.youtube.com/watch?v=kdVElRhr4q4"
       ],
-      "recommendedSetId": "kdVElRhr4q4",
+      "recommendedSetId": "8eYEW4q42y8",
       "recommendedSetRepresentative": false,
       "photoSourcePage": "https://www.insomniac.com/music/artists/astrix/",
       "photoVerifiedAt": "2026-11-11",
@@ -299,8 +304,10 @@
       "photoUrl": "/artists/1593866644.jpg",
       "photoSourceUrl": "https://artist-lineup-cdn.tomorrowland.com/96830896-Axwell-img-2025.jpg",
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=1593866644",
-      "genre": "Progressive house",
-      "subgenres": [],
+      "genre": "Big room",
+      "subgenres": [
+        "Progressive house"
+      ],
       "genreSources": [
         "https://www.youtube.com/watch?v=-etxOvF1ZN0"
       ],
@@ -1520,10 +1527,10 @@
         "verifiedAt": "2026-11-11"
       },
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=1593892326",
-      "genre": "Hardstyle",
+      "genre": "Dubstep",
       "subgenres": [
         "Drum & Bass",
-        "Dubstep"
+        "Hardstyle"
       ],
       "genreSources": [
         "https://www.youtube.com/watch?v=rPV3BWCpRNM",
@@ -1575,7 +1582,9 @@
       "photoSourceUrl": "https://artist-lineup-cdn.tomorrowland.com/240507866-Lilly Palmer 1.jpeg",
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=3016369307",
       "genre": "Techno",
-      "subgenres": [],
+      "subgenres": [
+        "Trance"
+      ],
       "genreSources": [
         "https://www.youtube.com/watch?v=e_cmlGboRjA"
       ],
@@ -1927,7 +1936,7 @@
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=1536165375",
       "genre": "Melodic techno",
       "subgenres": [
-        "Progressive house"
+        "Tech house"
       ],
       "genreSources": [
         "https://www.youtube.com/watch?v=Myv0L3opWEI"
@@ -2083,11 +2092,13 @@
       "photoSourceUrl": "https://artist-lineup-cdn.tomorrowland.com/53867332-230721-185343-TML23-R51_4326-KV.jpg",
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=1532641764",
       "genre": "Tech house",
-      "subgenres": [],
+      "subgenres": [
+        "Melodic techno"
+      ],
       "genreSources": [
         "https://www.youtube.com/watch?v=Y7Yzpqmq2ak"
       ],
-      "recommendedSetId": "Y7Yzpqmq2ak",
+      "recommendedSetId": "jdFzWiq3A5c",
       "recommendedSetRepresentative": false,
       "countryCodes": [
         "IT"
@@ -2145,9 +2156,9 @@
       "photoUrl": "/artists/1262711176.jpg",
       "photoSourceUrl": "https://artist-lineup-cdn.tomorrowland.com/177356045-5000x5000.jpg",
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=1262711176",
-      "genre": "Progressive house",
+      "genre": "Melodic techno",
       "subgenres": [
-        "Melodic techno"
+        "Techno"
       ],
       "genreSources": [
         "https://www.youtube.com/watch?v=DdgyifI5k9o"
@@ -2419,12 +2430,14 @@
       "photoUrl": "/artists/1361073186.jpg",
       "photoSourceUrl": "https://artist-lineup-cdn.tomorrowland.com/53521174-R3hab-2024.jpg",
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=1361073186",
-      "genre": null,
-      "subgenres": [],
+      "genre": "Progressive house",
+      "subgenres": [
+        "Melodic techno"
+      ],
       "genreSources": [
         "https://www.youtube.com/watch?v=nS3zcPI8Syc"
       ],
-      "recommendedSetId": "nS3zcPI8Syc",
+      "recommendedSetId": "EK3HZhmGS34",
       "recommendedSetRepresentative": false,
       "countryCodes": [
         "NL"
@@ -2841,8 +2854,15 @@
       "genreSources": [
         "https://www.youtube.com/watch?v=_gYlekjS6Nc"
       ],
-      "recommendedSetId": "_gYlekjS6Nc",
-      "recommendedSetRepresentative": false
+      "recommendedSetId": "FdtAuYlsDT4",
+      "recommendedSetRepresentative": false,
+      "countryCodes": [
+        "BE"
+      ],
+      "countrySources": [
+        "https://press.belgium.tomorrowland.com/symphony-of-unity-announces-first-ever-solo-show-at-antwerp-expo-on-november-11"
+      ],
+      "countryVerifiedAt": "2026-11-18"
     },
     {
       "id": "2655168539",
@@ -3020,7 +3040,7 @@
       "officialUrl": "https://brasil.tomorrowland.com/pt/line-up/?page=artists&artist=3092469864",
       "genre": "Tech house",
       "subgenres": [
-        "Techno"
+        "Melodic techno"
       ],
       "genreSources": [
         "https://www.youtube.com/watch?v=nSYt0B-EGwA"
@@ -5155,6 +5175,54 @@
       "viewCount": 157618,
       "verifiedAt": "2026-11-12",
       "selectionReason": "User-selected full set. Publisher description confirms the PEAK premiere at El Cid, Los Angeles, September 3, 2026.",
+      "representative": false
+    },
+    {
+      "id": "8eYEW4q42y8",
+      "youtubeUrl": "https://www.youtube.com/watch?v=8eYEW4q42y8",
+      "title": "Astrix set",
+      "eventLabel": "Recommended set",
+      "channel": "YouTube",
+      "uploadedAt": null,
+      "viewCount": null,
+      "verifiedAt": "2026-11-18",
+      "selectionReason": "Set link supplied by the user.",
+      "representative": false
+    },
+    {
+      "id": "jdFzWiq3A5c",
+      "youtubeUrl": "https://www.youtube.com/watch?v=jdFzWiq3A5c",
+      "title": "Meduza set",
+      "eventLabel": "Recommended set",
+      "channel": "YouTube",
+      "uploadedAt": null,
+      "viewCount": null,
+      "verifiedAt": "2026-11-18",
+      "selectionReason": "Set link supplied by the user.",
+      "representative": false
+    },
+    {
+      "id": "FdtAuYlsDT4",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FdtAuYlsDT4",
+      "title": "Symphony of Unity set",
+      "eventLabel": "Recommended set",
+      "channel": "YouTube",
+      "uploadedAt": null,
+      "viewCount": null,
+      "verifiedAt": "2026-11-18",
+      "selectionReason": "Set link supplied by the user.",
+      "representative": false
+    },
+    {
+      "id": "EK3HZhmGS34",
+      "youtubeUrl": "https://www.youtube.com/watch?v=EK3HZhmGS34",
+      "title": "R3HAB set",
+      "eventLabel": "Recommended set",
+      "channel": "YouTube",
+      "uploadedAt": null,
+      "viewCount": null,
+      "verifiedAt": "2026-11-18",
+      "selectionReason": "Set link supplied by the user.",
       "representative": false
     }
   ],
